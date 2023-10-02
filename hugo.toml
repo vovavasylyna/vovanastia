@@ -30,7 +30,7 @@ paginate = 10
 [languages]
   [languages.en]
     title = "Настя + Вова"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "Настя + Вова"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
