@@ -1,3 +1,8 @@
 [submodule "themes/hello-friend"]
 	path = themes/hello-friend
-	url = git://github.com/panr/hugo-theme-hello-friend.git
+[submodule "themes/rocinante"]
+	path = themes/rocinante
+	url = https://github.com/mavidser/hugo-rocinante.git
+[submodule "themes/hugo-flex"]
+	path = themes/hugo-flex
+	url = https://github.com/de-souza/hugo-flex.git
