@@ -12,7 +12,7 @@ headingoffset = 0
 linkicons = false
 summaries = false
 schema = false
-opengraph = false
+opengraph = true
 twittercards = false
 footer = ' '
 
