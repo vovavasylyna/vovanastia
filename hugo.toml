@@ -1,9 +1,9 @@
 baseurl = "/"
 theme = "hugo-flex"
-title = "Вова + Настя | Разом 2 роки 🎉🎉"
+title = "❤️ Вова + Настя ❤️ | Разом 2 роки 🎉🎉"
 
 [params]
-color = "black"
+color = "green"
 width = "42rem"
 divider = "\\a0"
 rss = "To subscribe to this RSS feed, copy its address and paste it into your favorite feed reader."
